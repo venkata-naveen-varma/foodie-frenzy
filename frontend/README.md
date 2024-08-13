@@ -1,6 +1,6 @@
-# A Food Delivery website 'Foodie-Frenzy'
+# Frontend of a food delivery web application 'Foodie-Frenzy'
 
-### Tech Stack
+### Frontend Tech Stack
 
 - React
 - Axios
