@@ -3,6 +3,10 @@ import cors from "cors"
 import dotenv from "dotenv"
 dotenv.config()
 import { connectDB } from "./config/db.js"
+import cartRouter from "./routes/cartRoute.js"
+import foodRouter from "./routes/foodRoute.js"
+import orderRouter from "./routes/orderRoute.js"
+import userRouter from "./routes/userRoute.js"
 
 const app = express()
 const port = process.env.PORT || 4000
