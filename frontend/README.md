@@ -1,4 +1,4 @@
-# Frontend of a food delivery web application 'Foodie-Frenzy'
+# Frontend of the food delivery web application 'Foodie-Frenzy'
 
 ### Frontend Tech Stack
 
@@ -6,3 +6,4 @@
 - Axios
 - HTML
 - CSS
+- Javascript

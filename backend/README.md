@@ -1,8 +1,8 @@
-# Backend of a food delivery web application 'Foodie-Frenzy'
+# Backend of the food delivery web application 'Foodie-Frenzy'
 
-### Backend Tech Stack (MERN)
+### Backend Tech Stack
 
 - MongoDB
 - Express
-- React
 - Node
+- Typescript/Javascript
