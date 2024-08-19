@@ -9,10 +9,14 @@
 - Javascript
 
 ### Application UI
-<img width="1440" alt="home page" src="https://github.com/user-attachments/assets/6a8e34ec-705f-45b6-bf5c-4ff9aabf02f6">
+- Admin Page
+<img width="1440" alt="admin page" src="https://github.com/user-attachments/assets/b6586834-9652-44d8-b4dc-df705534eb56">
 
-<img width="1440" alt="menu page" src="https://github.com/user-attachments/assets/100edf92-a56b-4f74-a87f-3297121c8a0c">
+- User Home
+<img width="1440" alt="home page" src="https://github.com/user-attachments/assets/b1ab13e9-7970-4fe6-b8ce-a077e257d80f">
 
-<img width="1440" alt="cart page" src="https://github.com/user-attachments/assets/97312922-9c5c-465b-a941-30ce64dc33fe">
+- Food Menu
+<img width="1440" alt="menu page" src="https://github.com/user-attachments/assets/80a9f43e-1a34-43fd-a25c-b6f542966301">
 
-<img width="1440" alt="admin page" src="https://github.com/user-attachments/assets/b6e43c43-886d-4446-9a3b-83a5bf897638">
+- Orders Cart
+<img width="1440" alt="cart page" src="https://github.com/user-attachments/assets/f65d2253-6bce-4e75-b19b-5e59aac49ded">
