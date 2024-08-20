@@ -7,12 +7,14 @@ const addFood = async (req,res) => {
 
     let image_filename = `${req.file.filename}`;
 
+    const url = req.protocol + '://' + req.get('host')
+
     const food = new foodModel({
         name:req.body.name,
         description:req.body.description,
         price:req.body.price,
         category:req.body.category,
-        image:image_filename
+        image:url + '/public/' + req.file.filename
     })
     try {
         await food.save();
