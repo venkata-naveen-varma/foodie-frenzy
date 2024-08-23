@@ -7,6 +7,10 @@
 - Node
 - Typescript/Javascript
 
+### Testing
+- Jest
+- Supertest
+
 ### User Interface
 
 - Admin Page
