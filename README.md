@@ -7,6 +7,7 @@ A food delivery application named "foodie-frenzy", tech stack is MERN (MongoDB, 
 ### Testing
 - Jest
 - Supertest
+- react built-in testing framework
 
 ### Backend Tech Stack
 
