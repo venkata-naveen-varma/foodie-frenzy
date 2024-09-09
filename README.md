@@ -4,6 +4,11 @@ A food delivery application named "foodie-frenzy", tech stack is MERN (MongoDB, 
 
 - This Repository consists of Frontend(React) and Backend(Node, Express) of the web applicaiton.
 
+### Testing
+- Jest
+- Supertest
+- react built-in testing framework
+
 ### Backend Tech Stack
 
 - MongoDB
