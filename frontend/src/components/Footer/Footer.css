@@ -12,7 +12,7 @@
 .footer-content{
     width: 100%;
     display: grid;
-    grid-template-columns: 2fr 1fr 1fr;
+    grid-template-columns: 0.5fr 1fr 1fr 1fr;
     gap: 80px;
 }
 .footer-content-left , .footer-content-right , .footer-content-center {
@@ -68,4 +68,8 @@
     .footer-copyright{
         text-align: center;
     }
+}
+
+.mylogo{
+    cursor: pointer;
 }

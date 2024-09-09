@@ -1,15 +1,18 @@
+/* eslint-disable no-unused-vars */
 import React from 'react'
 import './Footer.css'
 import { assets } from '../../assets/assets'
+import mylogo from "./mylogo.png"
 
 
 const Footer = () => {
   return (
     <div className='footer' id='footer'>
       <div className="footer-content">
+      <img className='mylogo' src={mylogo}/>
         <div className="footer-content-left">
             <img className='tomatologofooter' src={assets.logo} alt="" />
-            <p>This website is just for my portfolio, it's not a real website.</p>
+            <p>This website is just for my portfolio, it is not a real website.</p>
             <div className="footer-social-icons">
             <img src={assets.facebook_icon} alt="" />
               <img src={assets.twitter_icon} alt="" />
