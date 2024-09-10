@@ -1,5 +1,11 @@
 # Frontend of the food delivery web application 'Foodie-Frenzy'
 
+## Live Application
+
+- Checkout application at 👉🏻 [Foodie-Frenzy-website](https://foodie-frenzy-frontend.onrender.com)
+- Hosting PLatform: [Render](https://render.com)
+- Express Server API link https://foodie-frenzy-tsws.onrender.com
+
 ### Frontend Tech Stack
 
 - React
