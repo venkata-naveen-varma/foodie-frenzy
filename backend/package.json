@@ -8,8 +8,7 @@
     "start": "node server.js",
     "server": "nodemon server.js",
     "client": "npm start --prefix frontend",
-    "test": "jest",
-    "build": "npm install && npm install --prefix frontend && npm run build --prefix frontend"
+    "test": "jest"
   },
   "author": "Naveen",
   "license": "ISC",
