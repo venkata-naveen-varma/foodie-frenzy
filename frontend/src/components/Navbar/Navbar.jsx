@@ -11,7 +11,6 @@ const Navbar = ({setShowLogin}) => {
 
   const {getTotalCartAmount,token,setToken} = useContext(StoreContext)
 
-
   const navigate = useNavigate();
 
   const logout = () => {
