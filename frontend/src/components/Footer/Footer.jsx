@@ -9,7 +9,7 @@ const Footer = () => {
   return (
     <div className='footer' id='footer'>
       <div className="footer-content">
-      <a href="https://venkata-naveen-varma.github.io" target="_blank" rel="noreferrer"> <img className='mylogo' src={mylogo} /> </a>
+      <a href="https://naveen-v-v.github.io/" target="_blank" rel="noreferrer"> <img className='mylogo' src={mylogo} /> </a>
         <div className="footer-content-left">
             <img className='tomatologofooter' src={assets.logo} alt="" />
             <p>This website is just for my portfolio, it is not a real website.</p>
@@ -41,5 +41,6 @@ const Footer = () => {
     </div>
   )
 }
+
 
 export default Footer
